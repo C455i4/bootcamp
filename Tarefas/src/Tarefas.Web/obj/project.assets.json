@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/decom/Área de Trabalho/Bootcamp/bootcamp/Tarefas/src/src.csproj",
-      "projectName": "src",
-      "projectPath": "/home/decom/Área de Trabalho/Bootcamp/bootcamp/Tarefas/src/src.csproj",
+      "projectUniqueName": "/home/decom/Área de Trabalho/Bootcamp/bootcamp/Tarefas/src/Tarefas.Web/Tarefas.Web.csproj",
+      "projectName": "Tarefas.Web",
+      "projectPath": "/home/decom/Área de Trabalho/Bootcamp/bootcamp/Tarefas/src/Tarefas.Web/Tarefas.Web.csproj",
       "packagesPath": "/home/decom/.nuget/packages/",
-      "outputPath": "/home/decom/Área de Trabalho/Bootcamp/bootcamp/Tarefas/src/obj/",
+      "outputPath": "/home/decom/Área de Trabalho/Bootcamp/bootcamp/Tarefas/src/Tarefas.Web/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/decom/.nuget/NuGet/NuGet.Config"

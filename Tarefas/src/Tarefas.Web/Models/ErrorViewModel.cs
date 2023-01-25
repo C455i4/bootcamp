@@ -1,4 +1,4 @@
-namespace src.Models;
+namespace Tarefas.Web.Models;
 
 public class ErrorViewModel
 {
